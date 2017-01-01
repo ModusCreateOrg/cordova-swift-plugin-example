@@ -1,6 +1,6 @@
 # Cordova Swift Plugin Example
 
-Example Cordova plugin for iOS to support blog post.  The native part of the plugin is written in Swift rather than Objective-C.
+Example Cordova plugin for iOS to support blog post.  The native part of the plugin is written in Swift rather than Objective-C.  You can read the blog post [here](http://moduscreate.com/writing-a-cordova-plugin-in-swift-for-ios/).
 
 A simple Cordova plugin based on the [ModusEcho plugin](https://github.com/ModusCreateOrg/cordova-plugin-example) example, which in turn was based on the echo plugin example from the [Cordova documentation](https://cordova.apache.org/docs/en/latest/guide/hybrid/plugins/index.html).
 
