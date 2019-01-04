@@ -1,3 +1,12 @@
+![No longer maintained](https://img.shields.io/badge/Maintenance-OFF-red.svg)
+### [DEPRECATED] This repository is no longer maintained
+> While this project is fully functional, the dependencies are no longer up to date. You are still welcome to explore, learn, and use the code provided here.
+>
+> Modus is dedicated to supporting the community with innovative ideas, best-practice patterns, and inspiring open source solutions. Check out the latest [Modus Labs](https://labs.moduscreate.com?utm_source=github&utm_medium=readme&utm_campaign=deprecated) projects.
+
+[![Modus Labs](https://res.cloudinary.com/modus-labs/image/upload/h_80/v1531492623/labs/logo-black.png)](https://labs.moduscreate.com?utm_source=github&utm_medium=readme&utm_campaign=deprecated)
+
+---
 # Cordova Swift Plugin Example
 
 **UPDATE: 1/1/2017 -- IF YOU ARE USING SWIFT 3 / XCODE 8.2 THEN USE THE SWIFT 3 UPDATE OF THIS PLUGIN -- [REPO HERE](https://github.com/ModusCreateOrg/cordova-swift3-plugin-example).**
